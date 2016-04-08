@@ -1,5 +1,6 @@
-PATH
-  remote: ../bolin
+GIT
+  remote: git://github.com/yuya-takeyama/bolin.git
+  revision: fa6a08764bdc56354f70730d3621ecefa657b161
   specs:
     bolin (0.1.0)
       rack
