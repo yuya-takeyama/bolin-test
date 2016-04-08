@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/yuya-takeyama/bolin.git
-  revision: 265805ab2e5dcf5be92ba40e7c34c58e9de0f903
+  revision: 848e948a2c514f848e5eec1accb02d83e684bea1
   specs:
     bolin (0.1.0)
       rack
