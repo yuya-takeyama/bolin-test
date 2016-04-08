@@ -1,5 +1,6 @@
 {
   "name": "bolin test",
+  "description": "bolin test",
   "repository": "https://github.com/yuya-takeyama/bolin-test",
   "keywords": ["line", "bot"],
   "env": {
